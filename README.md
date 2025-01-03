@@ -12,4 +12,4 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div> 
 
-<div align="center"> <a href="https://www.linkedin.com/in/seu-perfil/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/filipe-lopes-332662196"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
